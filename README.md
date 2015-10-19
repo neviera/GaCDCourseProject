@@ -7,7 +7,7 @@ Above mentioned script downloads dataset from UCI Machine Learning repository ht
 extracts it in R working directory, processes data and creates tidy dataset `df_new` as
 described in Getting and Cleaning Data course. Script saves new dataset to local 
 file `tidydata.txt`
-Read more details on data and it's transformations in `Codebook.md`.  
+Read more details on data and it's transformations in `CodeBook.md`.  
 
 #How to run script  
 Download `run_analysis.R` to your local disc drive. Set R working folder to folder

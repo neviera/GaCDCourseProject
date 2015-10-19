@@ -57,7 +57,7 @@ Other selected variables for this dataset come from the `accelerometer` and `gyr
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain `Jerk` signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). Also the `magnitude` of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag).  
 
-Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals).  
+Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (frequency domain signals).  
 
 These signals were used to estimate variables present in data set - mean and standard deviations of measurements for subject activities.
 
